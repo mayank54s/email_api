@@ -1,2 +1,2 @@
 # email_api
-Sending email from php code
+Sending email using php in code igniter
