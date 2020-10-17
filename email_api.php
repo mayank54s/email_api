@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class abc extends CI_Controller {
 //controller part
-public function send_mail(){
+public function send_mails_function(){
     $email='';  //receiver address
     $subject='';// email subject
     $emailContent='';// email content
